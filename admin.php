@@ -218,12 +218,24 @@
     </div>
 
     <script src="js/jquery.min.js"></script>
+      <script src="js/datatable.js"></script>
     <script src="js/parallax.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js" ></script>
+    
+
+
+<script type="text/javascript">
+
+
+$(document).ready( function () {
+    $('#tablags').DataTable();
+} );
+
+</script>
 
 
 
 
   </body>
 </html>
+
