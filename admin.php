@@ -171,7 +171,7 @@
         <?php
         	include("function.php");
         ?>
-        <table id="tabla"  border="1" width="100%">
+        <table id="tablags"  border="1" width="100%">
 
 
           <thead>
@@ -220,7 +220,7 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/parallax.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-
+    <script src="//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js" ></script>
 
 
 
